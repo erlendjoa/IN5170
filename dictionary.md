@@ -87,3 +87,6 @@ P operation:
 V operation:
 ⟨s := s + 1⟩
 
+## Actors, Active Objects and Async Communication
+
+**Actor**: concept for distributed concurrency which combined a number of topics like active monitors, objects, race-free.
